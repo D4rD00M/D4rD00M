@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C,Python,Malwares,Penetration testing,DDOS,Bug Bounty,Ruby,Bash & Linux**
 
-- 📄 Know about my experiences [Global CyberPeace Challenge Winner,CTF player , OSINT,](Global CyberPeace Challenge Winner,CTF player , OSINT,)
+- 📄 Know about my experiences Global CyberPeace Challenge Winner,CTF player , OSINT,](Global CyberPeace Challenge Winner,CTF player , OSINT,)
 
 - ⚡Dangerous Fact **Whenever i get angry or sad do you know what i do (I write malware codes))**
 
