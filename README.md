@@ -1,4 +1,3 @@
-[![MasterHead](https://opensource.com/sites/default/files/uploads/react.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Xer0Weeds</h1>
 <h3 align="center">A passionate Ethical Hacker & Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c8.alamy.com/comp/2PG1BDT/cute-anonymous-hacker-with-white-hoodie-using-the-computer-laptop-concept-of-ethical-hacking-cybersecurity-cybercrime-cyberattack-2PG1BDT.jpg">
