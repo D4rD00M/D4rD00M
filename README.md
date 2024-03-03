@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xer0Weeds</h1>
 <h3 align="center">A passionate Hacker & Backend Developer </h3>
-<img align="right" alt="Coding" width="50" src="https://c8.alamy.com/comp/2PG1BDT/cute-anonymous-hacker-with-white-hoodie-using-the-computer-laptop-concept-of-ethical-hacking-cybersecurity-cybercrime-cyberattack-2PG1BDT.jpg">
+<img align="right" alt="Coding" width="450" src="https://c8.alamy.com/comp/2PG1BDT/cute-anonymous-hacker-with-white-hoodie-using-the-computer-laptop-concept-of-ethical-hacking-cybersecurity-cybercrime-cyberattack-2PG1BDT.jpg">
 # 💫 About Me:
 🔭 I’m currently working on DDOS , Bug Bounty , Malware Codes & Penetration testing tools<br><br>🌱 I’m currently learning REACT,FLUTTER,<br><br>👨‍💻 All of my projects are available at https://github.com/Xer0Weeds<br><br>💬 Ask me about C,Python,Malwares,Penetration testing,DDOS,Bug Bounty,Ruby,Bash & Linux<br><br>📄 Know about my experiences Global CyberPeace Challenge Winner,CTF player , OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
 
