@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PRIYANSU MUKHERJEE A.K.A D4rD00M</title>
+</head>
+<body>
+<h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D4rD00M</h1>
+<h3 align="center">A passionate Hacker & Backend Developer </h3>
+<img src="https://github.com/Xer0Weeds/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="Xer0Weeds" width="600" style="vertical-align: bottom;">
+
+<!-- Add the TryHackMe badge script here -->
+<script src="https://tryhackme.com/badge/871552"></script>
+
+<!-- Your remaining HTML code goes here -->
+
+# 💫 About Me:
+🔭 I’m currently working on DDOS, Bug Bounty, Malware Codes & Penetration testing tools<br><br>🌱 I’m currently learning Backend Developer<br><br>👨‍💻 All of my projects are available at https://github.com/Xer0Weeds<br><br>💬 Ask me about C, Python, Malwares, Penetration testing, DDOS, Bug Bounty, Ruby, Bash & Linux<br><br>📄 Know about my experiences Global CyberPeace Challenge Winner, CTF player, OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
+
+<!-- Your remaining HTML code continues here -->
+</body>
+</html>
+
+
 <h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D4rD00M</h1>
 <h3 align="center">A passionate Hacker & Backend Developer </h3>
 <img src="https://github.com/Xer0Weeds/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="Xer0Weeds" width="600" style="vertical-align: bottom;">
