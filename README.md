@@ -6,7 +6,7 @@
 🔭 I’m currently working on DDOS , Bug Bounty , Malware Codes & Penetration testing tools<br><br>🌱 I’m currently learning Backend Developer<br><br>👨‍💻 All of my projects are available at https://github.com/Xer0Weeds<br><br>💬 Ask me about C,Python,Malwares,Penetration testing,DDOS,Bug Bounty,Ruby,Bash & Linux<br><br>📄 Know about my experiences Global CyberPeace Challenge Winner,CTF player , OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
 
 ## TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/D4rD00M.png)](https://tryhackme.com/badge/871552)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/D4rD00M.png)](https://tryhackme.com/p/D4rD00M)
 
 
 ## 🌐 Socials:
