@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D4rD00M</h1>
 <h3 align="center">A passionate Hacker & Backend Developer </h3>
-<img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/D4rD00M.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
+<img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
 🔭 I’m currently working on DDOS , Bug Bounty , Malware Codes & Penetration testing tools<br><br>🌱 I’m currently learning Backend Developer<br><br>👨‍💻 All of my projects are available at https://github.com/D4rD00M<br><br>💬 Ask me about C,Python,Malwares,Penetration testing,DDOS,Bug Bounty,Ruby,Bash & Linux<br><br>📄 Know about my experiences Global CyberPeace Challenge Winner,CTF player , OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
