@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D4rD00M</h1>
+<h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D00M</h1>
 <h3 align="center">A passionate Hacker & Malware Developer.</h3>
 <img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
-🔭 I’m currently working on DDOS , Bug Bounty , Malware Codes & Penetration testing tools<br><br>🌱 I’m currently learning Malware Development<br><br>👨‍💻 All of my projects are available at https://github.com/D4rD00M<br><br>💬 Ask me about C,Python,Malwares,Penetration testing,DDOS,Bug Bounty,Ruby,Bash & Linux<br><br>📄 Know about my experiences Global CyberPeace Challenge Winner,CTF player , OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
+🔭 I’m currently working on Bug Bounty, MalDev & Exploit Development <br><br>🌱 I’m currently learning Shellcoding in ASM/C & Rust<br><br>👨‍💻 All of my projects are available at https://github.com/D4rD00M<br><br>💬 Feel free to ask me about Maldev in C/Rust/Asm or Shellcoding ,Pentesting & Linux<br><br>📄 Know about my experiences Mastercard CyberSecurity Analyst Intern,CTF player at VulnHub/HTB/THM & PicoCTF, OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
 
 ## TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/D4rD00M.png)](https://tryhackme.com/p/D4rD00M)
