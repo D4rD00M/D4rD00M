@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRIYANSU MUKHERJEE A.K.A D4rD00M</h1>
+<h1 align="center">Hi 👋, I'm PRIYANSU Mukherjee A.K.A D4rD00M</h1>
 <h3 align="center">A passionate Hacker & Malware Developer.</h3>
 <img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
 
